@@ -19,7 +19,9 @@
     justify-content: space-between;
 }
 .logo{
-    width: 120px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
     cursor: pointer;
 }
 .navbar ul li{
